@@ -3,7 +3,8 @@
 I'm a second-year student at Noroff Front-End Development with a keen interest in the innovative intersection of web technology and blockchain.
 My academic journey is complemented by a passion for exploring decentralized applications, particularly within the Dogecoin network.
 
-![image](https://github.com/Runeov/runeov/assets/100531314/34b25096-5a1f-475b-a50f-f4c450f7f53a)
+![New Project (1)](https://github.com/Runeov/runeov/assets/100531314/fa4a83e3-2134-4708-8599-b36aa0d01322)
+
 
 
 I believe in the transformative power of blockchain, and I'm intrigued by the concept of true digital ownership.
